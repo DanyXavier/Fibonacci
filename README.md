@@ -20,6 +20,4 @@ tamaño de mi serie: 6
 2+3=5
 ## Fórmula matemática
 
-$$
- f=f_{n-1} + f_{n-2}
-$$
+<div aling="center"><img src="https://render.githubusercontent.com/render/math?math=f=(f_{n-1})+(f_{n-2})"></div>
